@@ -1,6 +1,6 @@
 # Temat 17 – Terminal pasażerski
 
-**Autor:** Viktoriia Bozhyk, nr albumu 156302, grupa laboratoryjna 6
+**Autor:** Viktoriia Bozhyk, nr albumu 156302, grupa laboratoryjna 3
 **Repozytorium GitHub:** [https://github.com/ViktoriiaBozhyk/terminal_pasazerski](https://github.com/ViktoriiaBozhyk/terminal_pasazerski)
 **Język / środowisko:** C (C11), Linux, serwer `torus.uck.pk.edu.pl`
 
